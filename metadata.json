@@ -1,0 +1,6 @@
+{
+  "name": "IskoStay",
+  "description": "Reliable Student Housing Finder for the Filipino Youth. Search, verify, and match with roommates near Mindanao State University and other campuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
